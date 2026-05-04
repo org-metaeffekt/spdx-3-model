@@ -1,17 +1,17 @@
 SPDX-License-Identifier: Community-Spec-1.0
 
-# processRationale
+# projectTitle
 
 ## Summary
 
-The reason a process exists.
+Title of the project.
 
 ## Description
 
-The reason a process exists.
+Title of the project.
 
 ## Metadata
 
-- name: processRationale
+- name: projectTitle
 - Nature: DataProperty
 - Range: xsd:string
